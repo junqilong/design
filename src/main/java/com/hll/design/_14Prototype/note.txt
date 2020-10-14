@@ -1,0 +1,6 @@
+原型模式
+
+说白了就是对象的克隆
+
+1：实现Cloneable 接口
+2：重写Object的clone方法
